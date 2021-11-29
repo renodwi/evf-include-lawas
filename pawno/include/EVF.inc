@@ -30,7 +30,7 @@
 
 #define GetVehicleRoof(%0,%1,%2,%3) \
 	(GetVehicleOffset((%0), VEHICLE_OFFSET_ROOF, %1, %2, %3))
-
+	
 enum e_VehicleProperties {
 	e_VEHICLE_INTERIOR,
 	e_VEHICLE_PAINTJOB,
